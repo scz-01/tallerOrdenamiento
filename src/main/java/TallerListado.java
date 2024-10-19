@@ -6,7 +6,6 @@ import java.util.List;
 public class TallerListado {
 
     int opcionMenu = 0;
-    // String auxiliar;
     String nuevoNombre;
 
     List<String> listaNombres = new ArrayList<>(Arrays.asList("Ana", "Luis", "María", "José", "Elena",

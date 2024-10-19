@@ -9,7 +9,7 @@ public class ordenarString {
                 "David", "Marta", "Raúl", "Sara", "Andrés",
                 "Laura", "Miguel", "Carmen", "Pedro", "Julia"};
 
-        // Arreglo sin ordenar
+        // Mostramos Arreglo sin ordenar
         System.out.println("Arreglo original");
         for(int i = 0 ; i<arregloNombres.length; i++){
             System.out.println(arregloNombres[i]);
